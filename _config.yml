@@ -3,8 +3,7 @@ title: Christian Walker
 # Description of your website. This is used for social sharing.
 description: PhD researcher using data science to understand spatial structure, movement, and prediction across complex systems.
 # A brief blurb about yourself
-content: I'm a spatial data scientist and PhD candidate at LSU. My work centers on fundamental spatial questions — where are things located, how do they move, why do patterns emerge where they do, and can we predict what happens next? I use fish movement in the Gulf of Mexico and Mississippi River as a model system, but the methods I develop apply across ecology, public health, and urban systems. I work with telemetry, GIS, spatial statistics, and movement modeling. I enjoy turning complex data into actionable insights and communicating research through clear visualizations.
-# Add your social links
+content: I'm a spatial data scientist and PhD candidate at LSU. My work centers on fundamental spatial questions — where are things located, how do they move, why do patterns emerge where they do, and can we predict what happens next? 
 social:
   - platform: github
     url: https://github.com/cvwalker96
