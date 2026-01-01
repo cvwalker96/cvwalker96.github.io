@@ -1,34 +1,25 @@
 # Your Name or Company
-title: Uni Kravitz
-
+title: Christian Walker
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
-
+description: PhD researcher using data science to understand spatial structure, movement, and prediction across complex systems.
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
-
+content: I'm a spatial data scientist and PhD candidate at LSU. My work centers on fundamental spatial questions — where are things located, how do they move, why do patterns emerge where they do, and can we predict what happens next? I use fish movement in the Gulf of Mexico and Mississippi River as a model system, but the methods I develop apply across ecology, public health, and urban systems. I work with telemetry, GIS, spatial statistics, and movement modeling. I enjoy turning complex data into actionable insights and communicating research through clear visualizations.
 # Add your social links
 social:
   - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
-  - platform: twitter
-    url: https://twitter.com/brianmaierjr
+    url: https://github.com/cvwalker96
   - platform: linkedin
-    url: brianmaierjr
-
+    url: https://www.linkedin.com/in/christian-walker/
+  - platform: email
+    url: mailto:cwal121@lsu.edu
 # General settings
-# url: http://brianmaierjr.github.com/uni
+url: https://cvwalker96.github.io
 # baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
-google_analytics: "UA-58263416-1" # google analytics tracking
-
+# google_analytics: "UA-XXXXXXXX-X" # add your own later if you want tracking
 #### LAYOUT OPTIONS #####
-
 # Half layout
 half_side: right
-
 # Full layout
 full_text_position: right # left, right or center
