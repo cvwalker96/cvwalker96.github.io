@@ -1,4 +1,4 @@
-# cvwalker96.github.io
+# Christian Walker
 
 Personal website of Christian Walker — spatial data scientist and PhD candidate at LSU.
 
